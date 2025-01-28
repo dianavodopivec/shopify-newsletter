@@ -1,1 +1,1 @@
-# shopify-pop-up
+# Shopify Newsletter ~ CUSTOMIZABLE  
