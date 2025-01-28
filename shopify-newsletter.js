@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-    const $newsletter__modal = document.querySelector("customNewsletter")
+    const $newsletter__modal = document.querySelector(".custom-newsletter")
     const $newsletter__close = document.querySelector("customNewsletter__close")
   
     setTimeout(() => {
